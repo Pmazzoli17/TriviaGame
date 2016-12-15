@@ -1,0 +1,49 @@
+html, body{
+	height:100%;
+}
+
+body{
+	text-align: center;
+	background-image: url(https://thumbs.dreamstime.com/z/movie-pattern-seamless-flat-icons-32357092.jpg);
+}
+
+h1{
+	font-size: 60px;
+  margin: 0px;
+  padding-top: 70px;
+  font-family: 'Pacifico', cursive;
+}
+
+
+button{
+  display:block;
+  width: 50%;
+  height: 20%;
+  margin: 0 auto;
+  border: none;
+  cursor: pointer;
+  background:transparent;
+  font-size: 42px;
+}
+
+img{
+  height:250px;
+}
+
+#wrapper{
+  background-color: teal;
+  height: 100%;
+  margin-right: 120px;
+  margin-left: 120px;
+}
+
+#start{
+  margin-top: 10%;
+  border:3px solid navy;
+  background: #F7DF7D;
+}
+
+button:hover {
+  border:3px solid navy;
+  background: #F7DF7D;
+}
